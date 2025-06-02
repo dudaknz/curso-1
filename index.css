@@ -4,6 +4,10 @@ background-image: url(—Pngtree—maine\ coon\ cats\ isolated\ on_17778893.png)
     }
 header{
     background-color: white;
+    text-align:center ;
+    align-items: center;
+    display:flex ;
+    font-size: 150;
 }
 section{
     color: black;
